@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 <div align="center">I'm seong min !</div>
