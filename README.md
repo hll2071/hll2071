@@ -6,6 +6,10 @@
 <br>
 <br>
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/yourrepo/ci.yml?branch=main)](https://github.com/yourusername/yourrepo/actions)
-[![GitHub Top Langs](https://img.shields.io/github/languages/top/yourusername/yourrepo)](https://github.com/yourusername/yourrepo)
+<!-- 1. GitHub 프로필 통계 카드 -->
+![HSM’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hll2071&show_icons=true&theme=tokyonight)
+
+<!-- 2. 유저 전체 언어 통계 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hll2071&layout=compact&theme=tokyonight)
+
 
