@@ -6,5 +6,6 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hll2071)](https://github.com/hll2071)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/yourrepo/ci.yml?branch=main)](https://github.com/yourusername/yourrepo/actions)
+[![GitHub Top Langs](https://img.shields.io/github/languages/top/yourusername/yourrepo)](https://github.com/yourusername/yourrepo)
 
