@@ -10,7 +10,6 @@
 ![HSM’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hll2071&show_icons=true&theme=tokyonight)
 
 <!-- 2. 유저 전체 언어 통계 카드 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hll2071&layout=compact&theme=tokyonight)](https://img.shields.io/github/languages/top/hll2071/gomdolirobed-s2
-)
+[![GitHub Top Langs](https://img.shields.io/github/languages/top/hll2071/gomdoliro-s2)](https://github.com/hll2071/gomdoliro-s2)
 
 
