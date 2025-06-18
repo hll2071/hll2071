@@ -9,8 +9,5 @@
 <!-- 1. GitHub 프로필 통계 카드 -->
 ![HSM’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hll2071&show_icons=true&theme=tokyonight)
 
-<!-- 2. 유저 전체 언어 통계 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hll2071&layout=compact&theme=tokyonight)
-
 
 
